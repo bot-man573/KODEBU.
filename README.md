@@ -1,3 +1,9 @@
-This homepage is consisted by public folder.
-So, index.html, script.js, and style.css are not required.
-Please ignore these files.
+# KODEBU. 
+
+このプロジェクトでは、我々のKODEBU.のホームページを構成している。
+<br>我々、KODEBU.で発売している製品を告知しているホームページである。
+
+## ディレクトリ構成図
+ディレクトリ構成図は以下の通りになっている。<br>
+
+
